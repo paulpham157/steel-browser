@@ -49,7 +49,7 @@
     "@fastify/swagger": "^9.4.2",
     "@fastify/view": "10.0.2",
     "@fastify/vite": "^7.0.1",
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "@scalar/fastify-api-reference": "^1.25.116",
     "archiver": "^7.0.1",
     "axios": "^1.8.4",
