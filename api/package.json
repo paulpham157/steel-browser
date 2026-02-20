@@ -48,7 +48,7 @@
     "ts-node": "^10.9.2",
     "tsx": "^4.19.3",
     "typescript": "^5.7.3",
-    "vite": "^6.3.5"
+    "vite": "^7.3.1"
   },
   "dependencies": {
     "@adobe/css-tools": "^4.4.3",
@@ -59,7 +59,7 @@
     "@fastify/swagger": "^9.4.2",
     "@fastify/view": "10.0.2",
     "@joplin/turndown": "^4.0.80",
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "@scalar/fastify-api-reference": "^1.25.116",
     "archiver": "^7.0.1",
     "axios": "^1.8.4",
